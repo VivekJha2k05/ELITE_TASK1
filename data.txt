@@ -1,0 +1,3 @@
+This is a file management tool in C++.
+We are writing data to the file.
+Appending a new line to the file.
